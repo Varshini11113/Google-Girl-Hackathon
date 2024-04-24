@@ -12,7 +12,7 @@ import {
 } from "modelfusion";
 import OpenAi from "openai";
 
-let api_key="sk-proj-UyXJ8tU1DymEExPhTBTiT3BlbkFJHaNuJdY0mnRWt2nPEh1Z";
+let api_key="provide_your_openai_api_key";
 const openai = new OpenAi({
   apiKey: api_key,
 })
