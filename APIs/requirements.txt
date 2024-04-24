@@ -1,0 +1,9 @@
+torch
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+torchaudio
+nltk
+flask-cors
+
