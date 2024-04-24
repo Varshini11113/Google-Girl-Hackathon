@@ -49,7 +49,9 @@ python faiss_api.py <br>
 * **Install all the dependencies** <br>
   npm install
 * **To run the development server** <br>
-  npm run dev
+  npm run dev <br>
+* Click on the link generated after the complete run of developer server to view the result <br>
+* Example - Open http://localhost:3000 with your browser to see the result.
 
 # **Project (MediMatch) - demo video link**
 link --> https://drive.google.com/file/d/1IlwIWjp3idKkpih5HmosHfvgfaaxKF-8/view?usp=drive_link <br>
