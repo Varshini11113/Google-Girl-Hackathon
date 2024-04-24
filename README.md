@@ -25,6 +25,21 @@ Here's a brief overview of the key components and functionalities:
 **Libraries** **and** **Packages**: faiss-cpu, torch, pandas, numpy, sentence-transformers, npm packages <br>
 
 # **Work Flow**
+![alt text](<mediMatch workflow.png>)
+
+# **How to Run the Code**
+_**Set Up Environment**_ <br>
+* **Install Python and Flask:** <br>
+If not already installed, download and install Python from the official website: [Python Downloads](https://www.python.org/downloads/). <br>
+* Install Flask using pip:<br>
+  pip install flask <br>
+* **Install Required Python Packages:** <br>
+Navigate to the api folder: <br>
+cd api <br>
+* **Install the required Python packages using pip:** <br>
+pip install -r requirements.txt <br>
+
+
 
 
 
