@@ -8,7 +8,7 @@ Welcome to _MediMatch_, your trusted companion in navigating the complexities of
 # **Problem Statement**
 Medical Assistant: Develop a healthcare recommendation system that analyzes user symptoms leveraging symptom data (using mock data), healthcare provider databases, and user ratings,  recommends doctors with matching specialties and aligned schedules
 
-# Our Solution and Project Overview
+# Solution and Project Overview
 This project, _MediMatch_ aims to create a healthcare recommendation system that analyzes user symptoms, recommends relevant specialists, and provides assistance based on symptom data and healthcare provider databases. Through a user-friendly chatbot interface, users can input their symptoms, and our system analyzes the data using advanced AI algorithms to predict potential diseases and recommend relevant specialist doctors. <br> <br>
 _MediMatch_ offers a versatile **multimodal** interface, allowing users to interact via text, images, or audio, accommodating diverse communication preferences and enabling nuanced symptom analysis. Additionally, its **multilingual** support ensures accessibility by providing medical advice in users' preferred languages, breaking down language barriers and offering personalized healthcare experiences. <br> <br>
 Here's a brief overview of the key components and functionalities:
