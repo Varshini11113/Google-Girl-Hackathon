@@ -29,6 +29,7 @@ Here's a brief overview of the key components and functionalities:
 
 # **How to Run the Code**
 _**Set Up Environment**_ <br>
+# **Back-end**
 * **Install Python and Flask:** <br>
 If not already installed, download and install Python from the official website: [Python Downloads](https://www.python.org/downloads/). <br>
 * Install Flask using pip:<br>
@@ -38,6 +39,28 @@ Navigate to the api folder: <br>
 cd api <br>
 * **Install the required Python packages using pip:** <br>
 pip install -r requirements.txt <br>
+* Run the root python file (faiss_api.py) <br>
+python faiss_api.py <br>
+**The back-end server starts working** <br>
+* move to the location UI/nextjs-multi-modal/app/api/chat/route.js and include **open api key** in the front-end <br>
+
+# **Front-end**
+* Move to folder - UI/nextjs-multi-modal <br>
+* **Install all the dependencies** <br>
+  npm install
+* **To run the development server** <br>
+  npm run dev
+
+# **Project (MediMatch) - demo video link**
+link --> https://drive.google.com/file/d/1IlwIWjp3idKkpih5HmosHfvgfaaxKF-8/view?usp=drive_link <br>
+
+# **Project (MediMatch) - Screenshots**
+link --> https://drive.google.com/drive/folders/1JjRCrQWny9rj-rj4LB7w0Sdnz1RlUUKw?usp=drive_link <br>
+
+# **Dataset links**
+https://drive.google.com/file/d/1sKiMGy1Hp83rjznuMLhtS7JFhaS7ovxC/view?usp=drive_link
+
+## _**Thank you!**_
 
 
 
